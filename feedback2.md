@@ -11,11 +11,11 @@ L'affichage de la carte sélectionnée est fonctionnel, mais il aurait été bie
 
 **Etape 2:**
 Il manque l'affichage des cartes n'étant pas associées à un élément. Cela se gère facilement en rajoutant, dans la méthode `getElements`, une condition avec une requête pour obtenir les cartes où l'élément `IS NULL` (voir la correction pour les détails).
-Par ailleurs, tu aurais pu afficher le visuel des cartes trouvées en plus de leur nom.
+Tu aurais également pu afficher le visuel des cartes trouvées en plus de leur nom.
 
 **Etape 3:**
-Lors de la mise en place des sessions, attention à ne pas laisser en clair le `secret` et le mettre plutôt dans les varaibles d'environnement (.env).
-Bravo, même si tu n'as pas pu terminer, l'ajout de cartes dans le deck fonctionne bien, leur affichage dans celui-ci aussi.
+Lors de la mise en place des sessions, attention à ne pas laisser en clair le `secret` et le mettre plutôt dans les variables d'environnement (.env).
+Bravo! Même si tu n'as pas pu terminer, l'ajout de cartes dans le deck fonctionne bien, leur affichage dans celui-ci aussi.
 
 Il t'a manqué un peu de temps sur ce parcours, mais je suis sûre qu'avec un délai supplémentaire tu aurais pu le finaliser facilement. :muscle:
 

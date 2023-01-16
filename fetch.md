@@ -1,9 +1,12 @@
 Salut Apprenant1 !
 
 Alors, pour ta question sur fetch.
+Fetch signifie "aller chercher".
 
-L’API Fetch c’est une interface JavaScript qui permet notamment via la méthode `fetch()` de récupérer des données `method GET` (via des requêtes http, par exemple) et qui retourne une promesse.
+L’API Fetch c’est une interface JavaScript qui permet notamment via la méthode `fetch()` de récupérer des données `method GET` (via des requêtes http, par exemple).
 Cela permet également d'envoyer des données vers le serveur via la `method POST` et d'autres (`PATCH, PUT, DELETE`).
+
+Cela te retournera une promesse (promise) qui contient les données que tu as demandé.
 
 Il faudra donc résoudre la promesse pour récupérer les données dont tu as besoin.
 en utilisant `.then()` ou avec `async/await`.
