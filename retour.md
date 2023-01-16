@@ -38,8 +38,8 @@ Un peu de travail sur la correction, avec un peu d'aide si blocage sur certains 
 
 Parcours non validé. Etape 1 non terminée.
 
-Il a commencé à modifier la view (mais pas de la bonne manière, en utilisant un forEach), créé la route et ajouté la méthode à son dataMapper mais n'a pas su (ou pas eu le temps) de récupérer les données via son controller.
+Il a commencé à modifier la view (mais pas de la bonne manière, en utilisant un `forEach`), créé la route et ajouté la méthode à son dataMapper mais n'a pas su (ou pas eu le temps) récupérer les données via son controller.
 
-Il y a des choses à revoir et à comprendre.
+Il y a pas mal de choses à revoir et à comprendre.
 
 Un soutien de notre part pourrait être nécessaire pour l'aider à avancer et rattrapper son retard sur cette saison.
