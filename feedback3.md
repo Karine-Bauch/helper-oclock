@@ -1,11 +1,13 @@
-# Feedback3 Parcours S03
+# Feedback3 Parcours
 *le 13 janvier 2023*
 
 Tu sembles avoir eu des difficultés sur ce parcours. 
 Mais ce n'est pas grave. Grâce à la correction tu vas pouvoir le reprendre au calme afin d'acquérir les notions vues en cours. :ok_hand:
 
+Mise en place de la BDD et affichage des cartes OK. :clap:
+
 **Etape 1:**
-L'affichage du détails des cartes ne fonctionne pas car tu fais une boucle `for` alors que tu ne récupères qu'une seule carte.
+L'affichage des détails d'une carte ne fonctionne pas car tu fais une boucle `for` alors que tu ne récupères qu'une seule carte.
 En corrigeant cela, tu pourras voir également que l'image de la carte ne s'affiche pas car tu as rajouté `.jpg` alors que le `visual_name` de la carte contient déjà l'extension. (d'ailleurs, le `toLowerCase()` n'est pas nécessaire).
 
 **Etapes suivantes:**

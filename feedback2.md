@@ -1,4 +1,4 @@
-# Feedback2 Parcours S03
+# Feedback2 Parcours
 *le 13 janvier 2023*
 
 Félicitations pour ce parcours.
@@ -16,6 +16,7 @@ Tu aurais également pu afficher le visuel des cartes trouvées en plus de leur 
 **Etape 3:**
 Lors de la mise en place des sessions, attention à ne pas laisser en clair le `secret` et le mettre plutôt dans les variables d'environnement (.env).
 Bravo! Même si tu n'as pas pu terminer, l'ajout de cartes dans le deck fonctionne bien, leur affichage dans celui-ci aussi.
+Quelques infos [ici](https://www.npmjs.com/package/express-session#user-content-secret).
 
 Il t'a manqué un peu de temps sur ce parcours, mais je suis sûre qu'avec un délai supplémentaire tu aurais pu le finaliser facilement. :muscle:
 
