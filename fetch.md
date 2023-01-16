@@ -26,11 +26,11 @@ Utilisons par exemple une route que tu viens de créer dans ton parcours `http:/
 - **en utilisant `async/await`** :
 ```js
   <script>
-    async function fetchUser() {
+    async function fetchCard() {
       const response = await fetch('http://localhost:1234/card/7');
       console.log(response)
     }
-    fetchUser();
+    fetchCard();
   </script>
 ```
 
